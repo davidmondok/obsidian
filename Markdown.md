@@ -43,4 +43,25 @@ I just love **bold text**.
 | --- | --- | ----- |
 | 1   | 2   | 3     |
 
-![](images/IMG_9854.jpg)
+![Flower](images/IMG_9854.jpg)
+
+
+```mermaid
+sequenceDiagram
+	Alice->>+John: Hello John, how are you?
+	Alice->>+John: John, can you hear me?
+	John-->>-Alice: Hi Alice, I can hear you!
+	John-->>-Alice: I feel great!
+```
+
+> [!info]
+   Here's a callout block.
+   It supports **Markdown**, [[Internal link|Wikilinks]], and [[Embed files|embeds]]!
+
+#test #foo #bar
+
+$$
+\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc
+$$
