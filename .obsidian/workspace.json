@@ -57,8 +57,12 @@
             "id": "6b9abc3943c60bcb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Markdown.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -128,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Markdown.md"
+              }
             }
           }
         ]
@@ -184,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b9abc3943c60bcb",
+  "active": "e8da8065b41db166",
   "lastOpenFiles": [
+    "IMG_9854.jpg",
     "Markdown.md",
     "IMG_9827 - 01 1.jpg",
     "IMG_9827 - 01.jpg",
