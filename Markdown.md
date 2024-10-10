@@ -42,4 +42,5 @@ I just love **bold text**.
 | One | Two | Three |
 | --- | --- | ----- |
 | 1   | 2   | 3     |
-![](IMG_9854.jpg)
+
+![FLOWER](IMG_9854.jpg)
