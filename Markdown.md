@@ -43,4 +43,4 @@ I just love **bold text**.
 | --- | --- | ----- |
 | 1   | 2   | 3     |
 
-![FLOWER](IMG_9854.jpg)
+![](images/IMG_9854.jpg)
